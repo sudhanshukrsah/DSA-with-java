@@ -1,37 +1,37 @@
-# Java Day 1
+# Java Day 2
 
-This repository contains Java code for Day 1 of learning Java. It includes basic Java programs and examples to help beginners get started with Java programming.
+This project demonstrates basic user input handling in Java using the `Scanner` class. It is intended for beginners learning how to read strings and numbers from the console.
 
-## Project Structure
+## File Structure
 
-```
-java-day1/
-├── src/
-│   └── Main.java
-├── java-day1.iml
-```
 
-## Getting Started
+## Features
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/java-day1.git
+## How to Run
+
+1. Open a terminal and navigate to the project directory:
+   ```powershell
+   cd "e:\MY SIDE\JAVA ZONE\JAVA CODE\java-day2\src"
    ```
-2. **Open the project in your favorite IDE** (such as IntelliJ IDEA, Eclipse, or VS Code).
-3. **Compile and run the code:**
-   - Navigate to the `src` directory.
-   - Compile:
-     ```sh
-     javac Main.java
-     ```
-   - Run:
-     ```sh
-     java Main
-     ```
+2. Compile the Java file:
+   ```powershell
+   javac Main.java
+   ```
+3. Run the program:
+   ```powershell
+   java Main
+   ```
+4. Follow the prompts to enter a string and a number.
 
-## Main File
-- `Main.java`: Entry point for the Java program. Contains sample code for Day 1 exercises.
+## Example
+```
+Hello World
+Hello World
+42
+42
+```
+
+## Requirements
 
 ## License
-
-This project is licensed under the MIT License.
+This project is for educational purposes.
