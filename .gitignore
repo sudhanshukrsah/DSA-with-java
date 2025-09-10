@@ -27,3 +27,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS specific files
+Thumbs.db
